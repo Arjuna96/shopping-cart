@@ -1,0 +1,3 @@
+SALES_TAX_AMOUNT = 12.5;
+
+module.exports = SALES_TAX_AMOUNT;
