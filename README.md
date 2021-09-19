@@ -2,15 +2,19 @@
 
 ## How to run the test
 
-npm i\
+First install the dependenices,
+
+npm i
+
+then,
 
 1. Normal Test
 
-npm test or npm run test
+   npm test or npm run test
 
 2. Test with Coverage
 
-npm run test-with-coverage
+   npm run test-with-coverage
 
 ## Test data
 
