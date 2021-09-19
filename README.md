@@ -2,7 +2,11 @@
 
 ## How to run the test
 
+First install the dependenices,
+
 npm i
+
+then,
 
 1. Normal Test
 
